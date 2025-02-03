@@ -1,0 +1,11 @@
+{
+    "description": "Blog of cast42",
+    "repo": "https://github.com/cast42/blog",
+    "owner": {
+        "username": "cast42",
+        "email": "cast42@gmail.com"
+    },
+    "record": {
+        "CNAME": "cast42.github.io"
+    }
+}
